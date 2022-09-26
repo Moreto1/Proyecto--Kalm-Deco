@@ -1,0 +1,15 @@
+div.end {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px ;
+}
+#xxx {
+    width: 480px;
+    display: flex;
+    justify-content: end;
+}
+#xx{
+    width: 550px;
+    min-height: auto;
+    height: 450px;
+    display: flex;
+}
